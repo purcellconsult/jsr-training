@@ -17,7 +17,8 @@
 # try/except statement
 
 try:
-    divide = 10 / 0
+    divide = 10 / 1
+    print(divide)
 except ZeroDivisionError:
     print('DivisionError: Can\'t divide by zero')
 
