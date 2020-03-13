@@ -13,8 +13,8 @@
 
 from math import sqrt
 
-
 def mean(*args):
+
     """
     Computes the mean
     of an arbitrary list of
